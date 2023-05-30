@@ -1,0 +1,60 @@
+{
+	"category.wildfire_gender.generic": "Wildfire's Female Gender Mod",
+	"key.wildfire_gender.gender_menu": "Tjej Kön Meny",
+
+	"wildfire_gender.hurt.female": "Tjej Spelar Skadat",
+
+	"wildfire_gender.player_list.title": "Female Gender Mod",
+	"wildfire_gender.player_list.settings_button": "Inställningar",
+	"wildfire_gender.player_list.sync_status": "Synkroniseringsstatus",
+	"wildfire_gender.player_list.state.loading": "Ladar Data...",
+	"wildfire_gender.player_list.state.synced": "Synkroniserat Spelare",
+
+	"wildfire_gender.wardrobe.title": "Anpassningsmeny",
+	"wildfire_gender.wardrobe.slider.breast_size": "Bröst Storlek: %s%%",
+	"wildfire_gender.wardrobe.slider.separation": "Seperation: %s",
+	"wildfire_gender.wardrobe.slider.height": "Höjd: %s",
+	"wildfire_gender.wardrobe.slider.depth": "Djup: %s",
+	"wildfire_gender.wardrobe.slider.rotation": "Rotation: %s grader",
+
+	"wildfire_gender.appearance_settings.title": "Utseendeinställningar",
+	"wildfire_gender.char_settings.title": "Karaktär Inställningar",
+	"wildfire_gender.char_settings.physics": "Bröst Fysiker: %s",
+	"wildfire_gender.tooltip.breast_physics": "Sätt På Bröst Fysiker",
+	"wildfire_gender.char_settings.hide_in_armor": "Göm I Rustning: %s",
+	"wildfire_gender.tooltip.hide_in_armor": "Göm Bröst Model När Rustning Sätts På",
+	"wildfire_gender.char_settings.hurt_sounds": "Tjej Skadat Ljuder: %s",
+	"wildfire_gender.tooltip.hurt_sounds": "Sätter På Skadat Ljuder För Tjejer",
+
+	"wildfire_gender.breast_customization.dual_physics": "Dual-Fysiker: %s",
+
+	"wildfire_gender.player_list.bounce_multiplier": "Bounce Multiplikator: %sx",
+	"wildfire_gender.player_list.breast_momentum": "Bröst Momentum: %s%%",
+	"wildfire_gender.player_list.female_sounds": "Tjej ljuder: %s",
+
+	"wildfire_gender.settings.title": "Wildfire's Inställnings Meny",
+
+	"wildfire_gender.acknowledge.confirm": "Okej",
+
+	"wildfire_gender.label.gender": "Kön",
+	"wildfire_gender.label.female": "Kvinna",
+	"wildfire_gender.label.male": "Man",
+	"wildfire_gender.label.other": "Andra",
+
+	"wildfire_gender.label.enabled": "På",
+	"wildfire_gender.label.disabled": "Av",
+	"wildfire_gender.label.yes": "Ja",
+	"wildfire_gender.label.no": "Nej",
+	"wildfire_gender.label.exit": "X",
+	"wildfire_gender.label.too_far": "För långt bort",
+	"wildfire_gender.label.with_creator": "Du spelar på en server med skaparen av den har mod!",
+
+	"wildfire_gender.slider.bounce": "Bröst Studsintensitet: %sx",
+	"wildfire_gender.slider.floppy": "Bröst Momentum: %s%%",
+	"wildfire_gender.slider.min_bounce": "Varför Är Fysiker Ens På?",
+	"wildfire_gender.slider.max_bounce": "Anime Bröst Fysiker!!!",
+	"wildfire_gender.tooltip.bounce_warning": "Att sätta 'Bröst Studsintensitet' till en hög nivå kommer se väldigt onaturlig!",
+
+	"wildfire_gender.cancer_awareness.title": "Hej, Det Är Bröst Cancer Medvetenhets Månad!",
+	"wildfire_gender.cancer_awareness.description": "Clicka här att donera till den §dSusan G. Komen Foundation§f!"
+}
